@@ -1,0 +1,81 @@
+.buyukkare{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    position: relative;
+    background-color: brown;
+}
+
+.ortaustsolkare{
+   width: 150px; 
+   height: 150px;
+   border: 1px solid red;
+   top: 0;
+   left: 0;
+   position: absolute;
+   background-color: aqua;
+   
+}
+.ortaustsagkare{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    top: 0;
+    right: 0;
+    position: absolute;
+    background-color: darkcyan;
+}
+.ortaaltsolkare{
+    width: 150px;
+    height: 150px;
+    border: 1px solid blue;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    background-color: black;
+}
+.ortaaltsagkare{
+    width: 150px;
+    height: 150px;
+    border: 1px solid hotpink;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    background-color: blueviolet;
+}
+.solustkucukkare{
+    width: 50px;
+    height: 50px;
+    border: 1px solid blue;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    background-color: blueviolet;
+}
+.sagustkucukkare{
+    width: 50px;
+    height: 50px;
+    border: 1px solid yellowgreen;
+    bottom: 0;
+    left: 0;
+    position: absolute;    
+    background-color: darkolivegreen;
+}
+.solaltkucukkare{
+    width: 50px;
+    height: 50px;
+    border: 1px solid hotpink;
+    top: 0;
+    right: 0;
+    position: absolute;
+    background-color: white;
+}
+.sagaltkucukkare{
+    width: 50px;
+    height: 50px;
+    border: 1px solid blue;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background-color: cyan;
+}
